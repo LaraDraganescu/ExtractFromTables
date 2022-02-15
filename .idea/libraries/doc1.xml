@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="doc1">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/01_quickGuide" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/02_text" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/03_images" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/04_graphs" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/05_tables" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/06_annotations" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/07_attachments" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/08_bookmarks" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/09_forms" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/10_stampsAndWatermarks" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/10_stampsAndWatermarks/headerAndFooter" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/11_securityAndSignatures" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/12_linksAndActions" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/13_conversion" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/13_conversion/pdfToHTML" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/14_page" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/15_document" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/16_print" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf-FE_5.1.0.zip!/samples/util" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    maven {
+        url = uri("https://repo.e-iceblue.com/nexus/content/groups/public/")
+    }
+    maven {
+        url = uri("https://repository.groupdocs.com/repo/")
+    }
+}
+
+dependencies {
+    implementation 'org.apache.pdfbox:pdfbox:2.0.24'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.2'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.2'
+    implementation group: 'technology.tabula', name: 'tabula', version: '1.0.3'
+    implementation 'e-iceblue:spire.pdf:5.1.0'
+    implementation 'javax.xml.bind:jaxb-api:2.3.0'
+    implementation 'com.groupdocs:groupdocs-parser:21.2'
+
+
+
+}
+
+test {
+    useJUnitPlatform()
+}

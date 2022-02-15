@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="doc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/01_quickGuide" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/02_drawing" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/03_formatting" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/04_page" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/04_page/layers" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/05_table" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/06_grid" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/07_waterMark" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/08_list" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/09_interaction" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/09_interaction/bookmark" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/09_interaction/formField" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/09_interaction/stamp" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/10_securityAndSignatures" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/11_conversion" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/12_documentSettings" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/13_documentOperation" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/14_print" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/Spire.Pdf_2.2.0.zip!/samples/util" />
+    </SOURCES>
+  </library>
+</component>
