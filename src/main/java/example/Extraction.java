@@ -38,14 +38,13 @@ public class Extraction {
                             for (int j = 0; j < table.getColumnCount(); j++) {
                                 for(Value value: fields) {
                                     String text = table.getText(i, j);
-                                      if(text.contains(value.getKey())){
+                                      if(text.equals(value.getKey())){
                                           if(value.getPosition().equals(Enum.RIGHT)){
                                               value.setValue(table.getText(i,j+1));
                                           }
-                                          if(value.getPosition().equals(Enum.DOWN)){
+                                           if(value.getPosition().equals(Enum.DOWN)){
                                               value.setValue(table.getText(i+1,j));
-                                          }
-                                          if(value.getPosition().equals(Enum.UP)){
+                                          }if(value.getPosition().equals(Enum.UP)){
                                               value.setValue(table.getText(i-1,j));
                                           }
                                           if(value.getPosition().equals(Enum.LEFT)){

@@ -1,43 +1,177 @@
+1.  Product and Company Identification
+Product Code: PCI 800
+Product Name: PCI 800 : PBTC 50%
+Trade Name: PBTC 50%
+Company Name: Penn Chemicals, inc Phone Number:
+501 Cambria Ave (215)352-6575
+Suite 109
+Bensalem, PA  19020
+Web site address: www.pennchemicals.com
+Email address: info@pennchemicals.com
+Emergency Contact: CHEMTREC (24 HOUR) 1  (800)424-9300
+2.  Hazards Identification
+Intended Use: Scale & Corrosion Inhibitor Intermediate
+Serious Eye Damage/Eye Irritation, Category 2
+Corrosive To Metals, Category 1
+GHS Signal Word: Warning
+GHS Hazard Phrases: H290 - May be corrosive to metals.
+H319 - Causes serious eye irritation.
+GHS Precautionary Phrases: P234 - Keep only in original container.
+P264 - Wash hands thoroughly after handling.
+P280 - Wear protective gloves/protective clothing/eye protection/face protection.
+GHS Response Phrases: P305+351+338 - IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+P337+313 - If eye irritation persists, get medical advice/attention.
+P390 - Absorb spillage to prevent material damage.
+GHS Storage and Disposal P501 - Dispose of contents/container to a chemical waste facility in accordance with with
+Phrases: local, state and federal regulations.
+3.  Composition/Information on Ingredients
+OSHA Regulatory Status: This material is classified as hazardous under OSHA regulations.               CAS #  Hazardous Components (Chemical Name) ConcentrationHazardous Components (Chemical Name)  Concentration RTECS #Concentration  RTECS # Molecular FormulaRTECS #  Molecular Formula Molecular Formula     37971-36-1  2-Phosphonobutane-1,2,4-tricarboxylic acid 49.0 -51.0 %2-Phosphonobutane-1,2,4-tricarboxylic acid  49.0 -51.0 % NA49.0 -51.0 %  NA C7H11O9PNA  C7H11O9P C7H11O9P   Licensed to Penn Chemicals, Inc.:   MIRS MSDS, (c) A V Systems, Inc. GHS format               
 
+Specific Gravity (Water = 1): >=1.27         at   20.0 C
+Solubility in Water: No data.
+Octanol/Water Partition No data.
+Coefficient:
+Percent Volatile: ~  50 % by weight.
+Autoignition Pt: No data.
+Decomposition Temperature: No data. 10. Stability and Reactivity
+Viscosity: ~ 16 mPa-s   at   20.0 C
+Stability: Unstable [    ]       Stable [ X ]
+Conditions To Avoid - Avoid exposure to extreme temperatures, contact with incompatible chemicals,
+Instability: uncontrolled contact with accelerants. Avoid exposure to sparks and other sources of
+ignition.
+Incompatibility - Materials To Strong alkalis and metals. Reacts with alumiinum and steel.
+Avoid:
+Hazardous Decomposition or Thermal decomposition may lead to formation of carbon oxides and phosphorous oxides.
+Byproducts:
+Possibility of Hazardous Will occur [    ]       Will not occur [ X ]
+Reactions:
+Conditions To Avoid - No data available.11. Toxicological Information
+Hazardous Reactions:
+Toxicological Information: Acute Oral Toxicity: LD50 -RAT: > 6400 mg/kg (Anhydrous PBTC)
+Acute Dermal Toxicity: LD50 - RAT: > 4000 mg/kg (Sodium salt of PBTC)
+Acute Inhalation Toxicity: LD50 - RAT: No data available.                  Irritation or Corrosion: CORROSION/IRRITATION:
+Skin: No data available.
+Eyes: Moderately irritation - Rabbit.                  CAS #  Hazardous Components (Chemical Name) NTPHazardous Components (Chemical Name)  NTP IARCNTP  IARC ACGIHIARC  ACGIH OSHAACGIH  OSHA OSHA     37971-36-1  2-Phosphonobutane-1,2,4-tricarboxylic acid n.a.2-Phosphonobutane-1,2,4-tricarboxylic acid  n.a. n.a.n.a.  n.a. n.a.n.a.  n.a. n.a.n.a.  n.a. n.a.   12. Ecological Information
+General Ecological Terrestrial Ecotoxicity : This material can be harmful or fatal to contaminated plants or
+Information: animals, especially if large volumes are released into the environments.
+Aquatic Ecotoxicity (Acute) - 2-phosphonobutane-1,2,4-tricarboxylic acid.
+Fish Toxicity             : NOEC bracydanio rerio (zebra fish): = 1042 mg/L/14d (OECD 204)
+: LC50 Leuiscus idus: > 500 mg/L/48h
+Aquatic Invertebrates  : Daphnia magna (Crustacea) EC50 (48h) >1071 mg/L  (OECD
+202)
+Aquatic Plants          : EC   Scenedesmus subpicatus: > 1081 mg/L /72h (OECD 201)
+: EC10 Scenedesmus subpicatus:  33.3 - 65.6 mg/L /72h (OECD 201)
+Persistence and Persistence and Biodegradability*: 
+Degradability: 0% (OECD 301 D/E)
+17% (OECD 302B)
+30 - 40% (OECD 302A)
+Product is not readily biodegradable.
+Effect in sewage plants*: EC50 Bacterial in activated Sludge > 1000 mg/L/3h (OECD
+209)
+Licensed to Penn Chemicals, Inc.:   MIRS MSDS, (c) A V Systems, Inc. GHS format                  
 
+Bioaccumulative Potential: Effect in sewage plants*: EC50 Bacterial in activated Sludge > 1000 mg/L/3h (OECD
+209)
+Bioaccumulative Potential*: Low
+Secondary poisoning via the food chain is unlikely to occur.
+Partition coefficient n-octanol/water @ 25 °C: -1.36 log P(o/w)13. Disposal Considerations  (Substance-Anhydrous)
+Bioaccumulation is not to be expected (log P(o/w) < 1)
+Waste Disposal Method: Dispose of in accordance with local, state and federal regulations regulations.
+This material should be fully characterized for toxicity and possible reactivity prior to
+disposal (40 CFR 261). Use which results in chemical or physical change or
+contamination may subject it to regulation as a hazardous waste. Along with properly
+characterizing all waste materials, consult  all applicable regulations regarding the proper
+disposal of this material.
+Container contents should be completely used and containers should be emptied prior to
+discard. Container rinsate could be considered a RCRA hazardous waste and must be
+disposed of with care and in full compliance with federal, state and local regulations.
+Larger empty containers, such as drums, should be returned to the distributor or to a
+drum reconditioner. To assure proper disposal of smaller empty 14. Transport Information containers, consult with
+state and local regulations and disposal authorities.
+LAND TRANSPORT (US DOT):
+DOT Proper Shipping Name: Corrosive liquid, acidic, organic, n.o.s. (2-Phosphonobutane-1,2,4-tricarboxylic acid)
+DOT Hazard Class: 8                        CORROSIVE
+UN/NA Number: UN3265 Packing Group: II
+15. Regulatory Information
+EPA SARA (Superfund Amendments and Reauthorization Act of 1986) Lists               CAS #  Hazardous Components (Chemical Name) S. 302 (EHS)Hazardous Components (Chemical Name)  S. 302 (EHS) S. 304 RQS. 302 (EHS)  S. 304 RQ S. 313 (TRI)S. 304 RQ  S. 313 (TRI) S. 313 (TRI)     37971-36-1  2-Phosphonobutane-1,2,4-tricarboxylic acid No2-Phosphonobutane-1,2,4-tricarboxylic acid  No NoNo  No NoNo  No No   This material meets the EPA 'Hazard Categories' defined for SARA Title III Sections 311/312 as indicated:
+[  ] Yes  [X] No    Explosive [  ] Yes  [X] No    Acute toxicity (any route of exposure)
+[  ] Yes  [X] No    Flammable (gases, aerosols, liquid, or solid) [  ] Yes  [X] No    Skin Corrosion or Irritation
+[  ] Yes  [X] No    Oxidizer (liquid, solid or gas) [X] Yes  [  ] No    Serious eye damage or eye irritation
+[  ] Yes  [X] No    Self-reactive [  ] Yes  [X] No    Respiratory or Skin Sensitization
+[  ] Yes  [X] No    Pyrophoric (liquid or solid) [  ] Yes  [X] No    Germ cell mutagenicity
+[  ] Yes  [X] No    Pyrophoric gas [  ] Yes  [X] No    Carcinogenicity
+[  ] Yes  [X] No    Self-heating [  ] Yes  [X] No    Reproductive toxicity
+[  ] Yes  [X] No    Organic peroxide [  ] Yes  [X] No    Specific target organ toxicity (single or repeated exposure)
+[X] Yes  [  ] No    Corrosive to metal [  ] Yes  [X] No    Aspiration Hazard
+[  ] Yes  [X] No    Gas under pressure (compressed gas) [  ] Yes  [X] No    Simple Asphyxiant
+[  ] Yes  [X] No    In contact with water emits flammable gas [  ] Yes  [X] No    (Health) Hazard Not Otherwise Classified (HNOC)
+[  ] Yes  [X] No    Combustible Dust
+[  ] Yes  [X] No    (Physical) Hazard Not Otherwise Classified (HNOC)
+Licensed to Penn Chemicals, Inc.:   MIRS MSDS, (c) A V Systems, Inc. GHS format               
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+CAS #  Hazardous Components (Chemical Name) Other US EPA or State ListsHazardous Components (Chemical Name)  Other US EPA or State Lists Other US EPA or State Lists     37971-36-1  2-Phosphonobutane-1,2,4-tricarboxylic acid CAA HAP,ODC: No
+CWA NPDES: No
+TSCA: Yes - Inventory
+CA PROP.65: No
+CA TAC, Title 8: No
+MA Oil/HazMat: No
+MI CMR, Part 5: No
+NC TAP: No
+NJ EHS: No
+NY Part 597: No
+PA HSL: No
+SC TAP: No
+WI Air: No2-Phosphonobutane-1,2,4-tricarboxylic acid  CAA HAP,ODC: No
+CWA NPDES: No
+TSCA: Yes - Inventory
+CA PROP.65: No
+CA TAC, Title 8: No
+MA Oil/HazMat: No
+MI CMR, Part 5: No
+NC TAP: No
+NJ EHS: No
+NY Part 597: No
+PA HSL: No
+SC TAP: No
+WI Air: No CAA HAP,ODC: No
+CWA NPDES: No
+TSCA: Yes - Inventory
+CA PROP.65: No
+CA TAC, Title 8: No
+MA Oil/HazMat: No
+MI CMR, Part 5: No
+NC TAP: No
+NJ EHS: No
+NY Part 597: No
+PA HSL: No
+SC TAP: No
+WI Air: No   Regulatory Information TSCA Status: All components of this product are in compliance w16. Other Information1 ith TSCA.
+Statement:
+3 0
+Revision Date: 12/28/2019 3
+1
+Hazard Rating System: HEALTH
+0
+FLAMMABILITY Cq Flammability Instability
+REACTIVITY
+PPE COR
+HMIS: NFPA:
+Health
+Additional Information About No data available. Special Hazard
+This Product:
+Company Policy or Further information: This information is based upon the present state of our knowledge.
+Disclaimer: This SDS has been compiled and is solely intended for this product.
+Notice to readers: Employers should use this information only as a supplement to other
+information gathered by them and should make independent judgment of suitability of
+this information to ensure proper use and protect the health and safety of employees.
+Safety Data Sheets (SDS) are provided with shipment. It is Buyer's responsibility to read
+and adhere to all recommended safety instructions for handling of goods. Buyer
+assumes all risk and liability in handling all items. All information provided in the SDS is
+believed to be accurate, however, Penn Chemicals, Inc., makes no express or implied
+warranties regarding the accuracy of such information. Buyer is solely responsible for
+determining his activities compliance with all local, state and federal laws. Buyer is solely
+responsible for the safety of any end products made with materials/goods purchased
+from Penn Chemicals, Inc.
+Licensed to Penn Chemicals, Inc.:   MIRS MSDS, (c) A V Systems, Inc. GHS format         
 

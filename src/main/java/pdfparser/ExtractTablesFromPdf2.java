@@ -13,7 +13,7 @@ import technology.tabula.extractors.SpreadsheetExtractionAlgorithm;
 public class ExtractTablesFromPdf2 {
     public static void main(String[] args) throws IOException {
         // TODO Auto-generated method stub
-        final String FILENAME = "/home/lara/Documents/other_vendors/solvay/SDS/30078 - SDS.pdf";
+        final String FILENAME = "/home/lara/Downloads/SDS-20220113T082832Z-001/penn/SDS/PCI 800_PBTC50_SDSV6_2021.pdf";
 
         PDDocument pd = PDDocument.load(new File(FILENAME));
 
@@ -22,7 +22,7 @@ public class ExtractTablesFromPdf2 {
 
         ObjectExtractor oe = new ObjectExtractor(pd);
         SpreadsheetExtractionAlgorithm sea = new SpreadsheetExtractionAlgorithm();
-        Page page = oe.extract(13);
+        Page page = oe.extract(5);
 
         // extract text from the table after detecting
         List<Table> table = sea.extract(page);
