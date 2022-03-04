@@ -1,4 +1,4 @@
-package pdfparser;
+package other_examples;
 
 import java.io.File;
 import java.io.IOException;

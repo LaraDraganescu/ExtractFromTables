@@ -1,15 +1,18 @@
-package example;
+package other_examples;
 
 import com.spire.pdf.PdfDocument;
 import com.spire.pdf.utilities.PdfTable;
 import com.spire.pdf.utilities.PdfTableExtractor;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.List;
 
-public class ExtractMultipleFieldsFromDiffTables {
-    public void extraction(String pdf1, List<String> fields) throws IOException {
+public class ExtractOneFieldFromOneTable {
+    public void extraction2(String pdf1, String word) throws IOException {
         PdfDocument pdf = new PdfDocument(pdf1);
+
+        //COLONIAL  /home/lara/Documents/other_vendors/colonial/SDS/327225-01.pdf
+        //  /home/lara/Documents/other_vendors/solvay/SDS/OR0476_OR0476_USENG.pdf
+        //    NOT WORKING      /home/lara/Documents/other_vendors/dubois/SDS/MPG-0.pdf
 
         //Create a PdfTableExtractor instance
         PdfTableExtractor extractor = new PdfTableExtractor(pdf);
@@ -38,8 +41,7 @@ public class ExtractMultipleFieldsFromDiffTables {
                         //Loop through the columns in the current table
                         for (int j = 0; j < table.getColumnCount(); j++) {
 
-                            for (int i1 = 0; i1 < fields.size(); i1++) {
-                                if (table.getText(i, j).equals(fields.get(i1))) {
+                                if (table.getText(i, j).equals(word)) {
                                     //Extract data from the current table cell
                                     String text = table.getText(i, j);
 
@@ -47,7 +49,7 @@ public class ExtractMultipleFieldsFromDiffTables {
                                     builder.append(text + "  " + table.getText(i, j + 1) + " " + table.getText(i, j + 2));
 
                                 }
-                            }
+
                         }
                         builder.append("\r\n");
                     }
@@ -55,16 +57,13 @@ public class ExtractMultipleFieldsFromDiffTables {
                 }
 
             }
-
-
-            //Write data into a .txt document
-            FileWriter fw = new FileWriter("/home/lara/PdfParserExample/extract.txt");
-            fw.write(builder.toString());
-            fw.flush();
-            fw.close();
-
         }
+
+        //Write data into a .txt document
+        FileWriter fw = new FileWriter("/home/lara/PdfParserExample/extract.txt");
+        fw.write(builder.toString());
+        fw.flush();
+        fw.close();
+
     }
 }
-
-

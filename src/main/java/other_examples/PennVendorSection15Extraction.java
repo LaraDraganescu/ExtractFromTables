@@ -1,4 +1,4 @@
-package example;
+package other_examples;
 
 import com.spire.pdf.PdfDocument;
 import com.spire.pdf.utilities.PdfTable;

@@ -1,4 +1,4 @@
-package pdfparser;
+package other_examples;
 
 import com.groupdocs.parser.Parser;
 import com.groupdocs.parser.data.PageTableArea;
